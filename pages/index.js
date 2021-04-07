@@ -23,8 +23,8 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>Krastan Dimitrov</p>
         <p>
-          This is my NextJS tutorial webapp. Do not contact me in any way if you
-          are reading this
+          This is my NextJS tutorial webapp. Here is some text to cause the line
+          to span multiple lines so I can see the wrapping.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
